@@ -40,3 +40,27 @@ h1 {
     background-color: rgb(2, 1, 1);
     border: 5px solid black
 }
+
+.clock1 {
+    font-family: font;
+    font-size: 175px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+.clock2 {
+    font-family: font;
+    font-size: 175px;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+}
+
+.clock3 {
+    font-family: font;
+    font-size: 175px;
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
