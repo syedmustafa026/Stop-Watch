@@ -22,3 +22,21 @@ h1 {
     justify-content: center;
     margin-top: 3%;
 }
+.timer {
+    position: absolute;
+    border: 2px solid black;
+    width: 900px;
+    height: 300px;
+    background-color: rgb(151, 144, 144);
+    box-shadow: 8px 8px 10px rgb(41, 41, 41);
+}
+
+.inside {
+    position: absolute;
+    width: 800px;
+    height: 170px;
+    color: #FF3131;
+    margin: 2% 5%;
+    background-color: rgb(2, 1, 1);
+    border: 5px solid black
+}
