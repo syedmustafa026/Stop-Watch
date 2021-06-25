@@ -203,3 +203,9 @@
         color: black;
         font-weight: bold;
     }
+    .button2:hover {
+        background-color: white;
+        border: 2px solid #FF3131;
+        color: black;
+        font-weight: bold;
+    }
