@@ -57,7 +57,21 @@
         background-color: #000000;
     }
     
-    
+      .button2 {
+        position: absolute;
+        border: 2px solid #FF3131;
+        width: 200px;
+        height: 80px;
+        bottom: -110%;
+        font-family: font;
+        color: white;
+        cursor: pointer;
+        outline: none;
+        left: 25%;
+        font-size: 40px;
+        border-radius: 10px;
+        background-color: #0e0909;
+    }
     
     
     
