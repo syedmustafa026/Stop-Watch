@@ -13,3 +13,10 @@ msec1.innerHTML=msec;
 
   if(msec>=100){
     sec++
+sec1.innerHTML=sec;
+    msec=0;
+}else if(sec>=60){
+    min++
+    min1.innerHTML=min
+    sec=0
+    
