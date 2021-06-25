@@ -42,7 +42,20 @@
         top: 20%;
         right: 5%;
     }
-    
+    .button1 {
+        border: 2px solid #FF3131;
+        width: 200px;
+        height: 80px;
+        bottom: -50.3%;
+        cursor: pointer;
+        outline: none;
+        left: 25%;
+        color: white;
+        font-family: font;
+        font-size: 40px;
+        border-radius: 10px;
+        background-color: #000000;
+    }
     
     
     
