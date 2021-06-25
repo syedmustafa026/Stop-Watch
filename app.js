@@ -10,3 +10,6 @@ var a;
 function time(){
 msec++
 msec1.innerHTML=msec;
+
+  if(msec>=100){
+    sec++
