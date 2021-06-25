@@ -43,3 +43,5 @@ function reset(){
     sec1.innerHTML=00;
     msec1.innerHTML=000;
     clearInterval(a)
+   document.getElementById("start").disabled=false;
+}
