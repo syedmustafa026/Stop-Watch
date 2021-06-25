@@ -34,3 +34,12 @@ function stop(){
     clearInterval(a)
     document.getElementById("start").disabled=false;
 }
+
+function reset(){
+     min =00 +":";
+     sec=00;
+     msec=00;
+    min1.innerHTML=00;
+    sec1.innerHTML=00;
+    msec1.innerHTML=000;
+    clearInterval(a)
