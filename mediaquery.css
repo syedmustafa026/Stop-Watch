@@ -1,1 +1,9 @@
 
+/* media query starts */
+
+@media only screen and (max-width: 786px) {
+    .stopwatch {
+        display: flex;
+        justify-content: center;
+        margin-top: 3%;
+    }
