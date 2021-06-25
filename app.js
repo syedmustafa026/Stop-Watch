@@ -28,3 +28,9 @@ function start(){
     a=setInterval(time,10)
     document.getElementById("start").disabled=true;
 }
+
+function stop(){
+    
+    clearInterval(a)
+    document.getElementById("start").disabled=false;
+}
