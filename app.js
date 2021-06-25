@@ -20,3 +20,11 @@ sec1.innerHTML=sec;
     min1.innerHTML=min
     sec=0
     
+  }
+}
+
+function start(){
+
+    a=setInterval(time,10)
+    document.getElementById("start").disabled=true;
+}
